@@ -1,0 +1,6 @@
+# 構築済み DB と取得データは配布しない（道具だけを公開する）
+danbooru.db
+danbooru.db.building
+data/
+*.csv
+__pycache__/

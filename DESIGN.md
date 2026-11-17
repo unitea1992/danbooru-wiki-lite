@@ -392,7 +392,7 @@ Danbooru×DLsite ハイブリッドプールを構築する（2026-11-17、管�
   移行済み。詳細は第11節の参照資料を参照）。
 - ハイブリッドプールの個人データは `~/workspace/danbooru-hybrid/` 配下の
   非公開領域に置き、公開リポジトリの作業フォルダ
-  （`~/workspace/danbooru-new-repo/`）とは物理的に分ける。
+  （`~/workspace/danbooru-wiki-lite/`）とは物理的に分ける。
 
 ## 9. SIMILAR-OSS 提案12点への判定（付録）
 
@@ -452,7 +452,7 @@ SIMILAR-OSS.md 第7節の提案について、1点ずつ判定した。内訳は
   （harvest_wiki2.py, build_db.py, danbooru_search.py, update_wiki.py, HARVEST-NOTE.md）
   ※従来は ~/workspace/goals/comfyui-rocm/hidden_files/danbooru/ に置かれていたが、
   検証時のフォルダ命名だったため ~/workspace/danbooru-hybrid/ 配下へ移行した。
-- 設計文書: ~/workspace/danbooru-new-repo/（DESIGN.md、REVIEW-opus.md、SIMILAR-OSS.md）
+- 設計文書: ~/workspace/danbooru-wiki-lite/（DESIGN.md、REVIEW-opus.md、SIMILAR-OSS.md）
 - 先行リポジトリ: https://github.com/Nsi0512/danbooru-tag-search (MIT)
 - 公式本体（意味論の正本）: https://github.com/danbooru/danbooru
 - 自作版 DB 実測: 初回 301,458件、週次更新で 301,526件（2026-11-16）、
