@@ -314,10 +314,11 @@ JSON は標準入力から1つ読むのに加え、引数でも渡せるよう�
    `status`、本設計で `export-csv` を追加）。共通封筒形とエラーコードは
    第5.1節のとおり。
 6. リポジトリ名と公開アカウント: 公開アカウントは unitea1992 配下とする。
-   名前は先行リポジトリと区別できるものにし、候補は `danbooru-wiki-lite`
-   （「小さい」「Wiki が中心」「Posts を扱わない」が伝わる）か
-   `danbooru-tag-dict`。`danbooru-tag-search` に似た名前は避ける。
-   ライセンスは MIT。謝辞の書き方は第3節のとおり。最終決定は公開直前に行う。
+   名前は **`danbooru-wiki-lite`** に決定（2026-11-17、管理人の選択。
+   「小さい」「Wiki が中心」「Posts を扱わない」が伝わることを理由とする。
+   先行の danbooru-db／Danbooru-Tag-Database／danbooru-tag-search とは
+   被らないことを確認済み）。
+   ライセンスは MIT。謝辞の書き方は第3節のとおり。
 
 ## 7. 将来課題（v1 の範囲外）
 
